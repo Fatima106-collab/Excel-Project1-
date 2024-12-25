@@ -3,11 +3,11 @@
 
 The content of your Excel file includes:
 
-*Main Sheet (الرئيسى):
+* Main Sheet (الرئيسى):
 Contains details like customer names, dates, sales values, cities, and invoices.
 Additional columns include courier names, taxes, net values, and customer interactions.
 
-*Customer Sales (مبيعات العملاء):
+* Customer Sales (مبيعات العملاء):
 Appears to be under development or empty in the provided rows.
 
 * Dashboard (Dash Board):
