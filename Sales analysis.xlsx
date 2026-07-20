@@ -1,0 +1,23 @@
+An interactive Excel Sales Analysis Dashboard that transforms raw sales data into actionable business
+insights. This project analyzes sales performance from 2020–2022 using Pivot Tables, Pivot Charts, Slicers, KPIs, and dynamic visualizations to track revenue trends
+, product performance, customer behavior, and regional sales. Designed to support data-driven decision-making through clear and interactive reporting.
+
+📊 Features
+- Interactive Dashboard
+- Sales Performance Analysis (2020–2022)
+- KPI Tracking
+- Revenue Trend Analysis
+- Product Performance Analysis
+- Customer Insights
+- Regional Sales Analysis
+- Dynamic Filtering with Slicers
+- Business Insights & Decision Support
+
+🛠️ Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Data Cleaning
+- Conditional Formatting
+- Business Intelligence
