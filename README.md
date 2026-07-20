@@ -1,6 +1,6 @@
 # Fatma's Portfolio 
 
-# 📊 Sales Analysis Dashboard (2020–2022)
+# 📊 Sales Analysis Dashboard 
 
 ## Overview
 This project presents an interactive Sales Analysis Dashboard built in Microsoft Excel. It transforms raw sales data into meaningful business insights through data cleaning, Pivot Tables, Pivot Charts, KPIs, and dynamic Slicers.
